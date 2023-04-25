@@ -1,4 +1,6 @@
-# MicroPython script for rendering a badge with QR Code, logo (image), and 2-line text on badger2040 microcontroller
+# MicroPython script for rendering a badge 
+
+> with QR Code, logo (image), and 2-line text on badger2040 microcontroller
 
 ![Example Badge](.github/example.jpeg)
 
