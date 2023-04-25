@@ -10,7 +10,7 @@ The code was created by combining the default badger2040 implementation of a bad
 
 Before using this implementation, you will need to ensure that you have the following:
 
-- A badger2040 board
+- A badger2040 board (I've personally bought it on botland.cz - [board only](https://botland.cz/desky-mikrokontroleru-rp2040/21142-badger-2040-deska-s-rp2040-a-29-e-papirovou-obrazovkou-296x128px-pimoroni-pim607-769894021194.html) or [starter pack](https://botland.cz/desky-mikrokontroleru-rp2040/21141-badger-2040-deska-s-rp2040-a-29-e-paper-obrazovkou-296x128px-prislusenstvi-pimoroni-pim610-769894021279.html))
 - MicroPython installed on your computer
 - The latest firmware installed on your badger2040 board
 
